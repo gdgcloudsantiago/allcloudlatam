@@ -16,37 +16,9 @@
 
 # Preguntas Frecuentes:
 
-## ¿Aún no recibes tus créditos?
-
-Envía el siguiente correo tal cuál, solamente reemplaza donde dice [REEMPLAZAR_POR_TU_CORREO] por el correo que utilizaste para registrarte en el evento y en la plataforma Cloud Skillboost.
-
-Para: gdg-support@google.com
-
-Asunto: Road to Google Developers Certification support with credits
-
-Mensaje:
-
-Hi GDG Support team, first of all I hope you are doing well.
-
-I'm writing to you because I still don't have the credits related to the Road to Google Developers Certification - Google Cloud program (https://gdg.community.dev/road-to-google-dev-certification-cloud/)
-
-This is the event I RSVP'ed (https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano/)
-
-This is the email account I used to RSVP'ed and to join the Cloud Skillboost platform: [REEMPLAZAR_POR_TU_CORREO]
-
-Thank you very much for all your help and support.
-
-Have a wonderful week.
-
-Regards
-
 ## ¿En qué consiste el programa?
 
 - Se otorga acceso gratuito mediante créditos a la plataforma Cloud Skillboost con el fin de preprar alguna de las certificaciones de Google Cloud. Solamente se entrega acceso a los recursos teóricos y prácticos, no se entrega voucher para dar el examen.
-
-## ¿Cuanto duran los créditos?
-
-- 3 meses calendario.
 
 ## Instrucciones para registrarse en el programa
 
@@ -111,3 +83,60 @@ Ingeniero en DevOps (Professional DevOps Engineer):
 Información: https://cloud.google.com/certification/cloud-devops-engineer
 
 Camino de Aprendizaje: https://www.cloudskillsboost.google/paths/20
+
+## ¿El programa entrega Voucher para poder rendir el examen?
+
+Este programa no entrega voucher para rendir el examen.
+
+## ¿Aún no recibes tus créditos?
+
+Envía el siguiente correo tal cuál, solamente reemplaza donde dice [REEMPLAZAR_POR_TU_CORREO] por el correo que utilizaste para registrarte en el evento y en la plataforma Cloud Skillboost.
+
+Para: gdg-support@google.com
+
+Asunto: Road to Google Developers Certification support with credits
+
+Mensaje:
+
+Hi GDG Support team, first of all I hope you are doing well.
+
+I'm writing to you because I still don't have the credits related to the Road to Google Developers Certification - Google Cloud program (https://gdg.community.dev/road-to-google-dev-certification-cloud/)
+
+This is the event I RSVP'ed (https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano/)
+
+This is the email account I used to RSVP'ed and to join the Cloud Skillboost platform: [REEMPLAZAR_POR_TU_CORREO]
+
+Thank you very much for all your help and support.
+
+Have a wonderful week.
+
+Regards
+
+## ¿Cuanto duran los créditos?
+
+- 3 meses calendario (fin de Septiembre).
+
+## ¿Cuanto tiempo tengo para terminar el programa?
+
+- 3 meses calendario (fin de Septiembre).
+
+## ¿No tengo experiencia en la nube, por cuál camino debería comenzar?
+
+- Se recomienda comenzar por el camino de Associate Cloud Engineer: https://www.cloudskillsboost.google/paths/11
+
+## ¿Puedo cambiar mi camino de aprendizaje una vez inscrito?
+
+- Sí, siempre y cuando lo puedas completar durante la duración del programa.
+
+##  ¿Cómo marcar mi avance efectivamente en la plataforma?
+
+- Seleccionar el botón Mark as Completed
+
+## ¿Cómo pongo los videos en español?
+
+- Seleccionar CC / English Auto-generated y Luego Auto-Translated
+
+## ¿Que hacer si tengo cualquier tipo de problema con los laboratorios?
+
+- Contactar a soporte de Cloud Skillboost (Botón con signo de pregunta - Email o Chat Support). Por mientras por favor avanzar con los videos teóricos.
+
