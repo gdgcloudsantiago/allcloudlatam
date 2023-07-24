@@ -85,9 +85,21 @@ Información: https://cloud.google.com/certification/cloud-devops-engineer
 
 Camino de Aprendizaje: https://www.cloudskillsboost.google/paths/20
 
+## ¿Es necesario asistir al evento?
+
+No, de hecho no habrá evento, es solamente para poder asignar los créditos.
+
 ## ¿El programa entrega Voucher para poder rendir el examen?
 
 Este programa no entrega voucher para rendir el examen.
+
+## Me aparecen X créditos, estos créditos se van moviendo sin hacer nada:
+
+- Los créditos son compartidos, por eso se van gastando, no tienes que preocuparte por eso, se irán agregando constantemente.
+
+## Son suficientes los créditos que me asignan para poder completar un camino de aprendizaje:
+
+- Sí, no te preocupes por eso, solamente de hacerlo antes del fin de Septiembre.
 
 ## ¿Aún no recibes tus créditos?
 
