@@ -109,6 +109,12 @@ Este programa no entrega voucher para rendir el examen.
 
 Envía el siguiente correo tal cuál, solamente reemplaza donde dice [REEMPLAZAR_POR_TU_CORREO] por el correo que utilizaste para registrarte en el evento y en la plataforma Cloud Skillboost.
 
+IMPORTANTE: Dependiendo si te registarte en el evento del 24 de Julio o del próximo 31 de Julio tendras que reemplazar donde dice [REEMPLAZAR_POR_EL_LINK_DE_TU_EVENTO] una de estas 2 opciones.
+
+24 de Julio: https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano/
+
+31 de Julio: https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano-1/
+
 Para: gdg-support@google.com
 
 Asunto: Road to Google Developers Certification support with credits
@@ -119,7 +125,7 @@ Hi GDG Support team, first of all I hope you are doing well.
 
 I'm writing to you because I still don't have the credits related to the Road to Google Developers Certification - Google Cloud program (https://gdg.community.dev/road-to-google-dev-certification-cloud/)
 
-This is the event I RSVP'ed (https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano/)
+This is the event I RSVP'ed [REEMPLAZAR_POR_EL_LINK_DE_TU_EVENTO] 
 
 This is the email account I used to RSVP'ed and to join the Cloud Skillboost platform: [REEMPLAZAR_POR_TU_CORREO]
 
