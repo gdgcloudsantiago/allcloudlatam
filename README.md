@@ -24,7 +24,7 @@
 
 ¿CÓMO OBTENER ACCESO A LA PLATAFORMA?
 
-Paso 1: Registrarse en el evento hasta el día Lunes 24 de Julio del 2023 (No hay más opciones por el momento) en el siguiente link (RSVP): https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano/
+Paso 1: Registrarse en el evento hasta el día Lunes 31 de Julio del 2023 (No hay más opciones por el momento) en el siguiente link (RSVP): https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano/
 IMPORTANTE: No es necesario asistir al evento, solamente registrarse y seguir las instrucciones mencionadas en este documento.
 
 Paso 2: Registrarse en la plataforma https://www.cloudskillsboost.google/ con el mismo correo que usaron para registrarse en este evento.
@@ -131,11 +131,11 @@ Regards
 
 ## ¿Cuanto duran los créditos?
 
-- 3 meses calendario (fin de Septiembre).
+- Hasta fin de Septiembre.
 
 ## ¿Cuanto tiempo tengo para terminar el programa?
 
-- 3 meses calendario (fin de Septiembre).
+- Hasta fin de Septiembre.
 
 ## ¿No tengo experiencia en la nube, por cuál camino debería comenzar?
 
