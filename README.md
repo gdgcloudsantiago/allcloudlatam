@@ -135,6 +135,10 @@ Have a wonderful week.
 
 Regards
 
+## ¿Cuanto se demoran en responder el correo?
+
+Aproximadamente 1 día (la respuesta es en horario y días laborales), si lo mandas un Viernes en la tarde, probablemente tu respuesta sea el Lunes en la tarde.
+
 ## ¿Cuanto duran los créditos?
 
 - Hasta fin de Septiembre.
