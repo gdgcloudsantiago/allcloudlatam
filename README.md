@@ -93,6 +93,10 @@ No, de hecho no habrá evento, es solamente para poder asignar los créditos.
 
 Este programa no entrega voucher para rendir el examen.
 
+## ¿Como veo cuantos creditos tengo?
+
+- Dar click en el icono de perfil (esquina superior derecha). Si tienes ya una suscripcion activa, click en [SETTINGS], luego click en el panel izquierdo [Suscriptions and credits]. [Link](https://www.cloudskillsboost.google/my_account/credits)
+
 ## Me aparecen X créditos, estos créditos se van moviendo sin hacer nada:
 
 - Los créditos son compartidos, por eso se van gastando, no tienes que preocuparte por eso, se irán agregando constantemente.
@@ -115,6 +119,7 @@ IMPORTANTE: Dependiendo si te registarte en el evento del 24 de Julio o del pró
 
 31 de Julio: https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-acceso-gratis-a-cloud-skillboost-all-cloud-latam-la-ultima-oportunidad-del-ano-1/
 
+```
 Para: gdg-support@google.com
 
 Asunto: Road to Google Developers Certification support with credits
@@ -134,6 +139,7 @@ Thank you very much for all your help and support.
 Have a wonderful week.
 
 Regards
+```
 
 ## ¿Cuanto se demoran en responder el correo?
 
