@@ -109,7 +109,7 @@ Este programa no entrega voucher para rendir el examen.
 
 - Los créditos deberían ser cargados con fecha máxima en los siguientes 1 o 2 días hábiles después de la realización del evento. Si no se cargan los créditos por favor seguir el punto: ¿Aún no recibes tus créditos?
 
-## ¿Aún no recibes tus créditos y ya han pasado 1 o 2 días hábiles después de la realización del evento?
+## ¿Aún no recibes tus créditos y ya han pasado 2 días hábiles después de la realización del evento?
 
 Envía el siguiente correo tal cuál, solamente reemplaza donde dice [REEMPLAZAR_POR_TU_CORREO] por el correo que utilizaste para registrarte en el evento y en la plataforma Cloud Skillboost y [REEMPLAZAR_POR_EL_LINK_DE_TU_EVENTO] por el link del evento donde te registraste.
 
