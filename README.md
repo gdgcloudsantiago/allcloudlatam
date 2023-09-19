@@ -139,13 +139,17 @@ Regards
 
 Aproximadamente 1 día (la respuesta es en horario y días laborales), si lo mandas un Viernes en la tarde, probablemente tu respuesta sea el Lunes en la tarde.
 
+## ¿Si ya participé en una convocatoria anterior, puedo participar en esta nueva convocatoria, tengo que usar otro correo?
+
+No hay ninguna restricción que diga que alguien que participó en una convocatoría anterior no pueda participar nuevamente. Si luego de 2 días hábiles posterior al evento no recibes tus créditos, sigue el procedimiento indicado para solicitar tus créditos con soporte, no es necesario usar otro correo.
+
 ## ¿Cuanto duran los créditos?
 
-- Hasta fin de Septiembre.
+- Hasta fin de Noviembre.
 
 ## ¿Cuanto tiempo tengo para terminar el programa?
 
-- Hasta fin de Septiembre.
+- Hasta fin de Noviembre.
 
 ## ¿No tengo experiencia en la nube, por cuál camino debería comenzar?
 
